@@ -5,3 +5,4 @@ Fix GPU allocation script
 Add distributed training support
 Update Python requirements
 Add logging and metrics
+Optimize batch processing

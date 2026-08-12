@@ -6,3 +6,4 @@ Add distributed training support
 Update Python requirements
 Add logging and metrics
 Optimize batch processing
+Fix memory leak in dataloader
